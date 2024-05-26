@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvachivate&label=Profile%20views&color=0e75b6&style=flat" alt="atharvachivate" /> </p>
 
-- 🌱 I’m currently learning **SQL, Pandas, Langchain**
+- 🌱 I’m currently learning **SQL, Pandas, numpy, D3**
 
 - 👯 I’m looking to collaborate on [UDP based multithreaded client server](https://github.com/AtharvaChivate/UDP-based-Multithreaded-client-server)
 
