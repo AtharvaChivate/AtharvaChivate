@@ -7,7 +7,7 @@ I'm Atharva Chivate, a passionate Tech Explorer! 👨‍💻
 💫 Exploring new technologies like AWS, Power BI, and React JS, while embracing challenges to fuel personal growth and professional development.  
 ✨ Let's turn ideas into reality! 💡
 
-- 📫 How to reach me **chivateatharva@gmail.com**
+📫 How to reach me **chivateatharva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
