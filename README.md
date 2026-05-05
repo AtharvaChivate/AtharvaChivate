@@ -8,5 +8,3 @@ I'm Atharva Chivate, a passionate Tech Explorer! 👨‍💻
 ✨ Let's turn ideas into reality! 💡
 
 📫 How to reach me **chivateatharva@gmail.com**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvachivate&show_icons=true&locale=en&layout=compact" alt="atharvachivate" /></p>
